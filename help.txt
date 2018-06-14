@@ -1,0 +1,4 @@
+o jogo usa um tabuleiro de 9 casas dispostas em 3 linhas e 3 colunas e 8 peças numeradas de 1 a 8.
+O objetivo do jogo é deixar todas as peças em ordem e a última peça com o buraco.
+Usa-se as setas do teclado para movimentar dentro do tabuleiro e a tecla ENTER para mover a peça.
+Aperte ESC para sair do jogo, f1 para ajuda, f2 para falar todas as peças e f3 para saber a localização atual.
